@@ -1,0 +1,10 @@
+ Usuarios:
+
+ nombre="camilo1" 
+ usuario="camilo1@mail.com clave=12345
+
+ nombre="camilo2"   
+usuario="camilo2@mail.com clave=qwerty
+
+ nombre="camilo3" 
+usuario="camilo3@mail.com  clave=asdfgh
